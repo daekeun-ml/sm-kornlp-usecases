@@ -6,7 +6,9 @@
 
 ### [Multiclass Classification](multiclass-classification)
 
-### [Named Entity Recognition (NER) ](named-entity-recognition)
+### [Named Entity Recognition (NER)](named-entity-recognition)
+
+### [Question Answering](question-answering)
 
 ### Sentence Similarity - WIP
 
@@ -14,7 +16,6 @@
 
 ### Chatbot - WIP
 
-### Question Answering  - WIP
 
 ### Automatic Speech Recognition (ASR) - WIP
 
