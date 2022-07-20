@@ -10,12 +10,9 @@
 
 ### [Question Answering](question-answering)
 
-### Sentence Similarity - WIP
+### [Chatbot and Semantic Search using Sentence-BERT (SBERT)](sentence-bert-finetuning)
 
 ### Summarization - WIP
-
-### Chatbot - WIP
-
 
 ### Automatic Speech Recognition (ASR) - WIP
 
