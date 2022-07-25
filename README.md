@@ -12,6 +12,8 @@
 
 ### [Chatbot and Semantic Search using Sentence-BERT (SBERT)](sentence-bert-finetuning)
 
+### [Natural Language Inference (NLI)](natural-language-inference)
+
 ### Summarization - WIP
 
 ### Automatic Speech Recognition (ASR) - WIP
