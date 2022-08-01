@@ -14,13 +14,17 @@
 
 ### [Natural Language Inference (NLI)](natural-language-inference)
 
-### Summarization - WIP
+### [Summarization](summarization)
+
+### [Translation](translation)
 
 ### Automatic Speech Recognition (ASR) - WIP
 
-### Translation - WIP
-
 ### Vision Transformer - WIP
+
+### Data2Vec - WIP 
+
+### TrOCR - WIP 
 
 <br>
 
