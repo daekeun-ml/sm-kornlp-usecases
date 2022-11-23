@@ -18,13 +18,14 @@
 
 ### [Translation](translation)
 
+### [TrOCR](trocr)
+
 ### Automatic Speech Recognition (ASR) - WIP
 
 ### Vision Transformer - WIP
 
 ### Data2Vec - WIP 
 
-### TrOCR - WIP 
 
 <br>
 
